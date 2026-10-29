@@ -81,9 +81,6 @@ Acredito que cada erro faz parte do aprendizado. Quero continuar criando
 projetos, entendendo como as coisas funcionam e evoluindo como
 desenvolvedor, um passo de cada vez.
 
-## 🤝 Conecte-se comigo
-
--   GitHub: [@SEU_USUARIO](https://github.com/SEU_USUARIO)
 
 ------------------------------------------------------------------------
 
